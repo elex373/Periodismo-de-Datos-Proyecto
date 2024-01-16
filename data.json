@@ -1,0 +1,2217 @@
+{
+    "EVO":{
+        "tournament_name": "Evolution Championship Series",
+
+        "events":{
+            "SF6":{
+                "event_name": "Street Fighter 6",
+                "participants":[
+                    {
+                        "nick": "NuckleDu",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                        
+                    },
+                    {
+                        "nick": "Hikaru",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "JPN"
+                        
+                    },
+                    {
+                        "nick": "AcQua",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "JPN"
+                        
+                    },
+                    {
+                        "nick": "Kakeru",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "JPN"
+                        
+                    },
+                    {
+                        "nick": "Menard",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "NA"
+                        
+                    },
+                    {
+                        "nick": "Daigo Umehara",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                        
+                    },
+                    {
+                        "nick": "Torimeshi",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "JPN"
+                        
+                    },
+                    {
+                        "nick": "Babushas",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "LA"
+                        
+                    },
+                    {
+                        "nick": "Crucial",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                        
+                    },
+                    {
+                        "nick": "Koji",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "JPN"
+                        
+                    },
+                    {
+                        "nick": "Zach",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                        
+                    },
+                    {
+                        "nick": "Julio",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                        
+                    },
+                    {
+                        "nick": "Nephew",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                        
+                    },
+                    {
+                        "nick": "Dyloch",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                        
+                    },
+                    {
+                        "nick": "Chris Wong",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "ASIA"
+                        
+                    },
+                    {
+                        "nick": "Skyll",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "EU"
+                        
+                    },
+                    {
+                        "nick": "Eita",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "JPN"
+                        
+                    },
+                    {
+                        "nick": "Zykles",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                        
+                    },
+                    {
+                        "nick": "Yamauchi",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "JPN"
+                        
+                    },
+                    {
+                        "nick": "Laplace",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "JPN"
+                        
+                    },
+                    {
+                        "nick": "ZJZ",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "ASIA"
+                        
+                    },
+                    {
+                        "nick": "Dogura",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "JPN"
+                        
+                    },
+                    {
+                        "nick": "Dual Kevin",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"            
+                    },
+                    {
+                        "nick": "KR_WrestlingMan",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "SK"                      
+                    },
+                    {
+                        "nick": "FluxWaveZ",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"                       
+                    },
+                    {
+                        "nick": "HsienChang",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"                       
+                    },
+                    {
+                        "nick": "Yanai",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Tokido",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Shuto",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Kilzyou",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "EU"
+                    },
+                    {
+                        "nick": "Fuudo",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Haitani",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Samurai",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "HotDog29",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "ASIA"
+                    },
+                    {
+                        "nick": "Todakai",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "LA"
+                    },
+                    {
+                        "nick": "Naji",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "MJ_Gama",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "LA"
+                    },
+                    {
+                        "nick": "Valmaster",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "EU"
+                    },
+                    {
+                        "nick": "Kudo",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Diaphone",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Masoma",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Killakam",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Gachikun",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "TonyShuai",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "BigBird",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "MO"
+                    },
+                    {
+                        "nick": "Duston",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "NYChrisG",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "NL",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "SK"
+                    },
+                    {
+                        "nick": "Daikoku",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Kizzie Kay",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Ajax Fidelity",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "LA"
+                    },
+                    {
+                        "nick": "GentlemanThief",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Moke",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "ChirsCCH",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Zenith",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "LA"
+                    },
+                    {
+                        "nick": "Reynald",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Adrian Riven",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Johnny",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Mago",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Ryusei",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Ryukichi",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Fujimura",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Higuchi",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Gumout",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "ASIA"
+                    },
+                    {
+                        "nick": "Sonic Fox",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Angry Bird",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "MO"
+                    },
+                    {
+                        "nick": "Pugera",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Momochi",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Inside",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "GamerBee",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "ASIA"
+                    },
+                    {
+                        "nick": "Bonchan",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "NoathTheProdigy",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Zaferino",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "John Takeuchi",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Machabo",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "PortaJon",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Joey",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "FlashMetroid",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Fenritti",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "ItabashiZangief",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Jaccy",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Noble",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Semiji",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Tachikawa",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "FilipinoMan",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Penom",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "EU"
+                    },
+                    {
+                        "nick": "Caba",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "LA"
+                    },
+                    {
+                        "nick": "Go1",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "OilKing",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "ASIA"
+                    },
+                    {
+                        "nick": "DRDANNYPHAM",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "UMA327",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "ASIA"
+                    },
+                    {
+                        "nick": "Punk",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Stealh",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "SpeedKicks",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Kusanagi",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "LA"
+                    },
+                    {
+                        "nick": "Nemo",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "JPN"
+                    }
+                ]
+            },
+            "Tekken7":{
+                "event_name": "Tekken 7",
+                "participants":[
+                    {
+                        "nick": "Spero gin",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Phine",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Mr. Croft",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "EU"
+                    },
+                    {
+                        "nick": "Brandini",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "DragonSlayer",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Rick_Tha_Rular",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Drasty",
+                        "sex": "female",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Shrike",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "TheEvilPadawan",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "ShinBlade",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "S.A.M",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "AverieyRiB",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "JayGeorgeM",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "AverieyRiB",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Farzeen",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "MO"
+                    },
+                    {
+                        "nick": "AverieyRiB",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Ulsan",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "SK"
+                    },
+                    {
+                        "nick": "TY",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "IonyOniyX",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Khan",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "MO"
+                    },
+                    {
+                        "nick": "Infested",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "SK"
+                    },
+                    {
+                        "nick": "TY",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Kaizur",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Rangchu",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "SK"
+                    },
+                    {
+                        "nick": "Book",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "ASIA"
+                    },
+                    {
+                        "nick": "Ghirlanda",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "EU"
+                    },
+                    {
+                        "nick": "TY",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Mordrek",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "LA"
+                    },
+                    {
+                        "nick": "Chocobo",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Joonya",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Showmatic",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Pokchop",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Marbles",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "K-Wiss",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "EU"
+                    },
+                    {
+                        "nick": "Haezl",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "R.Imyourfather",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "SK"
+                    },
+                    {
+                        "nick": "JeonDDing",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "SK"
+                    },
+                    {
+                        "nick": "Shadow 20z",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "AO",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "CBM",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "SK"
+                    },
+                    {
+                        "nick": "Doujin",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "ASIA"
+                    },
+                    {
+                        "nick": "JoKa",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "EU"
+                    },
+                    {
+                        "nick": "Nobi",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Gosain",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "MO"
+                    },
+                    {
+                        "nick": "Pasterl Tommy",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "VictorUC",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Mr.Joel",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "TY",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Nemax",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "LA"
+                    },
+                    {
+                        "nick": "NYTobi",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "JakeMan",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "DH_2K",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Cuddle_Core",
+                        "sex": "female",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "The Mayor",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "HK Jr",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "EU"
+                    },
+                    {
+                        "nick": "Shonen",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Dtownsking",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Raziel730",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Uryuu",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "iVesperX",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "NeNe",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Blood Hawk",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Azeem",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "MO"
+                    },
+                    {
+                        "nick": "Xaryu",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "WayGamble",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "KiraKira",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "EU"
+                    },
+                    {
+                        "nick": "Arslan Ash",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "MO"
+                    },
+                    {
+                        "nick": "Chanel",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "SK"
+                    },
+                    {
+                        "nick": "Anakin",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Ayorichie",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "EU"
+                    },
+                    {
+                        "nick": "Kkokkoma",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "SK"
+                    },
+                    {
+                        "nick": "SephiBlack",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "EU"
+                    },
+                    {
+                        "nick": "Pinya",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Keisuke",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Joey Fury",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Danielmado",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "EU"
+                    },
+                    {
+                        "nick": "PhiDX",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Knee",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "SK"
+                    },
+                    {
+                        "nick": "Chikurin",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Genghis don",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Super Akouma",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "EU"
+                    },
+                    {
+                        "nick": "Meo-IL",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "SK"
+                    },
+                    {
+                        "nick": "Odellthefinest",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "G6OP",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "GK777",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Fred Distance",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Azure",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "GhostDive",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Haze",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Exalted",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "K2RO",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "SK"
+                    },
+                    {
+                        "nick": "El Horror",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "LA"
+                    },
+                    {
+                        "nick": "LeoXaves",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "LA"
+                    },
+                    {
+                        "nick": "Natch",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Kagemaru",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Landon D",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    }
+                ]
+            },
+            "GGST":{
+                "event_name": "Guilty Gear Strive",
+                "participants":[
+                    {
+                        "nick": "Mikesaftig",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "LA"
+                    },
+                    {
+                        "nick": "PurePure",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Elucid",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Abnormal Sense",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Petrafied",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "KonaKami",
+                        "sex": "male",
+                        "spot": "top 96", 
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Lolo",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Slash",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "MO"
+                    },
+                    {
+                        "nick": "IlosioNZ",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "LA"
+                    },
+                    {
+                        "nick": "GillJC",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Darkrai",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "@GB Combo",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Trevor Tsu",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Kaijo Boy",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Supernoon",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Gnar",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Umisho",
+                        "sex": "female",
+                        "spot": "top 8",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Natch",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Marvelo",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Latif",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "MO"
+                    },
+                    {
+                        "nick": "ApologyMan",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Eddventure",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "HonoredOgre",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Daru Ino",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Stealthy",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Daze",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "RF",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Dejojo",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "EU"
+                    },
+                    {
+                        "nick": "Idom",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Razzo",
+                        "sex": "female",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Tiger Pop",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "EU"
+                    },
+                    {
+                        "nick": "Hotashi",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Tyurara",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Ikushisu",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Tripp",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "D.O.N",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Qeuw",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Skyll",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "EU"
+                    },
+                    {
+                        "nick": "Snixy",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Voltiyon",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "PlantainPapi",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Kreator",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Safe",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Kedako",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Benjy",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "TestYourLuck",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Aboii",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Atma",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "LA"
+                    },
+                    {
+                        "nick": "Ruka",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Jiro",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Jonathan Tene",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "MFCR",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "NBNHMR",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Nage",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Bean",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "OoeyGooeyChewySnicker",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "RedDitto",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Zintay",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Collom",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Nitro",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Smitty",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Stealh",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "GcYoshi13",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Cheryo",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Climbatize",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Kyet",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Rat",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Pokket",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "FourFaceButtons",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Yata",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Kazam",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Akeno",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Setchi",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "EU"
+                    },
+                    {
+                        "nick": "Aarondamac",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Verix",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "AF"
+                    },
+                    {
+                        "nick": "Tempest",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Leffen",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "EU"
+                    },
+                    {
+                        "nick": "solstice",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "PepperySlash",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Poka",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "LordKnight",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Remi Celeste",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Zando",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "MO"
+                    },
+                    {
+                        "nick": "Doren",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Macho",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Meeks",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "MjKurase",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Yiinja",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Armix",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "EU"
+                    },
+                    {
+                        "nick": "Tensorial",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Punk",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Eve",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Flare",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Rem",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Apho",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Papple",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    }
+                    
+
+                ]
+            },
+            "KOF15":{
+                "event_name": "King of Fighters 15",
+                "participants":[
+                    {
+                        "nick": "Wero Asamiya",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "LA"
+                    },
+                    {
+                        "nick": "Poderoso",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "LA"
+                    },
+                    {
+                        "nick": "Juan KOF",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "LA"
+                    },
+                    {
+                        "nick": "Vader.pe",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "LA"
+                    },
+                    {
+                        "nick": "ViolentKain",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "LA"
+                    },
+                    {
+                        "nick": "Kihara",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "LA"
+                    },
+                    {
+                        "nick": "FKang",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "LA"
+                    },
+                    {
+                        "nick": "Masaou",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Khriz",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "LA"
+                    },
+                    {
+                        "nick": "ZJZ",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "ASIA"
+                    },
+                    {
+                        "nick": "Seis Mx",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "LA"
+                    },
+                    {
+                        "nick": "Rigosam",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "LA"
+                    },
+                    {
+                        "nick": "Combo Fiend",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Kaiser",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "LA"
+                    },
+                    {
+                        "nick": "ChrisG",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Bon",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Laggia",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Xiaohai",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "ASIA"
+                    },
+                    {
+                        "nick": "Tamago",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "LA"
+                    },
+                    {
+                        "nick": "E.T",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "ASIA"
+                    },
+                    {
+                        "nick": "Lacid",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "SK"
+                    },
+                    {
+                        "nick": "SharkUrien",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "LA"
+                    },
+                    {
+                        "nick": "MadKof",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "SK"
+                    },
+                    {
+                        "nick": "Shinwa",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "JPN"
+                    }
+                ]
+            },
+            "UMvC3":{
+                "event_name":"Ultimate Marvel vs Capcom 3",
+                "participants":[
+                    {
+                        "nick": "Kane Blueriver",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "LA"
+                    },
+                    {
+                        "nick": "NoLife",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Mundank",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Cosmos",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "LiberalTerminator",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Dead X Pride",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Spartan Throne",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "EU"
+                    },
+                    {
+                        "nick": "Wolf Street",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Milky",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Romora",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Escalante",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Jibrill",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Jason_Gamedev",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Evasion",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "RayR",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "RF",
+                        "sex": "male",
+                        "spot": "top 8",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Flocker",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "K-Brad",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "DylnYan",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Quack",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "LA"
+                    },
+                    {
+                        "nick": "Wedge",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "ClockWork",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Noelbhungry",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Idom",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Not Enough Damage",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Wbi_Priest",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Rok",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Zoo-Law",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "JPN"
+                    },
+                    {
+                        "nick": "Amongst Shadows",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Minato",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Aces Return",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Aonien",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Mothman",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "pzpoy",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "RyanLV",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "SD-Shogun",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Frankie G",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Lilsteve",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Ronan Healy",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "1upmiles",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "EU"
+                    },
+                    {
+                        "nick": "Paradigm",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "SBK",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Angelic",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "CorkyJay",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Livinlegend26",
+                        "sex": "male",
+                        "spot": "top 24",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Winrich",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Magic Pixel Mexican",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    },
+                    {
+                        "nick": "Zenpool",
+                        "sex": "male",
+                        "spot": "top 96",
+                        "country": "NA"
+                    }  
+                ]
+            }
+        }
+    }
+}

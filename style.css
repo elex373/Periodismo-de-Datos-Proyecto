@@ -1,0 +1,39 @@
+p {
+  padding: 0 45px 0 45px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.2rem;
+}
+
+h2 {
+  padding: 0 45px 0 45px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.2rem;
+}
+
+img {
+    border-radius: 25px;
+}
+
+.hero-images {
+  flex-direction: row;
+}
+
+.chart-container {
+    height: 50dvh;
+}
+
+.champion-desc {
+  font-size: 1rem;
+}
+
+.subtitl-image {
+  font-size: 0.7rem;
+  font-weight: 700;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@media (max-width: 768px) {
+  p {
+    padding: 0 15px 0 15px;
+  }
+}

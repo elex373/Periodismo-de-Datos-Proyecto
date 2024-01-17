@@ -10,6 +10,12 @@ h2 {
   font-size: 1.2rem;
 }
 
+h1 {
+  padding: 0 45px 0 45px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.2rem;
+}
+
 img {
     border-radius: 25px;
 }
